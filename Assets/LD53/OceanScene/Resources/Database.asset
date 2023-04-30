@@ -21,13 +21,13 @@ MonoBehaviour:
   - Name: Start
     Key: 0
     Message: You must pay your debt and gather 10000$ to win the game. Items with
-      green background are more sought out in then red ones.
+      green background are more sought after then red ones.
   - Name: EndFail
     Key: 1
     Message: You ran out of money, better luck next time.
   - Name: EndSuccess
     Key: 2
-    Message: You finnaly paid off all your debt, time to enjoy your freedom.
+    Message: You finally paid off all your debt, time to enjoy your freedom.
   - Name: Fall off
     Key: 3
     Message: This world is pretty flat.
