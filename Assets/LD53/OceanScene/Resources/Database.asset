@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f83d6c4142aa94d4db4746a24e655737, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  StartMoney: 800
+  FuelPrice: 15
+  MaxCargoCount: 4
+  MaxCargoSlotSize: 5
+  WinMoney: 10000
+  storyPoints:
+  - Name: Start
+    Key: 0
+    Message: You must pay your debt and gather 10000$ to win the game. Items with
+      green background are more sought out in then red ones.
+  - Name: EndFail
+    Key: 1
+    Message: You ran out of money, better luck next time.
+  - Name: EndSuccess
+    Key: 2
+    Message: You finnaly paid off all your debt, time to enjoy your freedom.
+  - Name: Fall off
+    Key: 3
+    Message: This world is pretty flat.

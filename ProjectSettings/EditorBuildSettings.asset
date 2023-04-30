@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LD53/MainMenuScene/MainMenuScene.unity
+    guid: 8416fc7bd2aa09040acd2ae4f180d63f
+  - enabled: 1
+    path: Assets/LD53/OceanScene/OceanScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/LD53/SettingsScene/SettingsScene.unity
+    guid: 0ef4a1900a05b604e96badef3b388860
+  m_configObjects: {}
